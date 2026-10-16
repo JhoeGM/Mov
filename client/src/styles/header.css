@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: black;
+  border-bottom: 2px solid #222;
+}
+
+.logo {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.logo span {
+  color: #e91e63;
+}
+
+.nav-links a {
+  margin-left: 1.5rem;
+  color: #ccc;
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  color: #fff;
+}
